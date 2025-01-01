@@ -43,7 +43,7 @@
 
 ## Final Conclusion 
 To improve Blinkit's sales performance, we need a strategic market planning focusing on Tier 2 and Tier 1 cities and promote
-more healthy and organic foods.Average customer rating of 4  indicating high satisfaction but room for improvement in low-rated items
+more healthy and organic foods.Average customer rating of 4  indicating high satisfaction but room for improvement in low-rated items.
 
 
 
