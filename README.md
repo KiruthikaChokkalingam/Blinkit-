@@ -1,7 +1,8 @@
 # Blinket Sales Case Study
 
 ## Business Requirement
-    To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities using various KPIs and visualizations in power BI
+    To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to 
+    identify key insights and opportunities using various KPIs and visualizations in power BI
 
 ## Dataset Used
 ![Dataset](https://github.com/KiruthikaChokkalingam/Blinkit-/blob/main/BlinkIT%20Grocery%20Data.xlsx)
